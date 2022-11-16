@@ -1,0 +1,7 @@
+{
+  "name": "hffi-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
